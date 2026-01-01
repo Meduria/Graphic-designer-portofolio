@@ -84,9 +84,9 @@ nav a {
 
 .logos {
   display: flex;
-  gap: 16px;
+  gap: 24px;
   margin-top: 30px;
-  font-size: 24px;
+  font-size: 32px;
   color: var(--gray);
 }
 span a {
